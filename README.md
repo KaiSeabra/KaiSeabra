@@ -18,17 +18,22 @@
 
 <!--Tecnologias-->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height ="35" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" title="NodeJS" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="35" alt="java logo" title="Java" />
+  <img width="12" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/AWS_Simple_Icons_AWS_Cloud.svg" height="30" alt="aws cloud logo" title="AWS Cloud" />
 </div>
+
+
 
 ###
 
@@ -41,7 +46,7 @@
   <a href="https://www.twitch.tv/kaikorno" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
 </div>
 </div>
-"O homem é o somatório das suas ações".
+💬 "O homem é o somatório das suas ações."
 
 <!--Snake-->
 <picture>
