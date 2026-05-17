@@ -80,8 +80,6 @@ backend developer • cloud enthusiast • cs undergrad
 <div align="center">
 
 ```yaml
-name: Kaio Oliveira
-
 role:
   - Backend Developer
   - Cloud Enthusiast
@@ -164,7 +162,7 @@ motto:
 <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/>
 <img width="12"/>
 
-<img title="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="55"/>
+<img title="AWS" src="https://skillicons.dev/icons?i=aws" height="55"/>
 
 </div>
 
@@ -194,7 +192,18 @@ motto:
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22mwgefwvf2gju5sr5jw2ee4q)](https://open.spotify.com/user/22mwgefwvf2gju5sr5jw2ee4q)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=22mwgefwvf2gju5sr5jw2ee4q&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=A855F7&bar_color_cover=false"
+  />
+</a>
+
+<br><br>
+
+<img 
+  src="https://spotify-recently-played-readme.vercel.app/api?user=22mwgefwvf2gju5sr5jw2ee4q&count=3&unique=true"
+  width="70%"
+/>
 
 </div>
 
